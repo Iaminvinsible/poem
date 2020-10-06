@@ -1,8 +1,14 @@
 .poem{
   margin: 7% 40% ;
+  font-size: 1.5rem;
 }
 
 body{
   background-color: black;
   color: white;
+  text-align: center;
+}
+
+h1{
+  font-size: 3rem;
 }
